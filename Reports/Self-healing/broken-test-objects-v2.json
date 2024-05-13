@@ -1,3 +1,24 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/INT-PP-002/CREATION/required field only/Page_Home/span_",
+      "brokenLocator": "//a[@id\u003d\u0027sf\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Home\u0027])[2]/following::span[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/INT-PP-002/CREATION/required field only/Page_Home/span__neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/INT-PP-002/CREATION/CREATION WITH MANDATORY FIELD ONLY/Page_Search for cr01/div_Create Work Center",
+      "brokenLocator": "//a[@id\u003d\u0027__tile587\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Results (1)\u0027])[1]/following::div[11]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/INT-PP-002/CREATION/CREATION WITH MANDATORY FIELD ONLY/Page_Search for cr01/div_Create Work Center_neighbor.png"
+    }
+  ]
 }
