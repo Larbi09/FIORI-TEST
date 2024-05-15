@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>9a229b0b-2b37-4b7e-b95b-68a833b20941</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='sh[3,0]#sc']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.urBorderBox.lsSapTable--expandWidth.lsSTCellHeight100.urSTSCOuterDiv.urSTRowSelSecIcon.urST4LbSelIcon > div.urST5SCMetricInner.lsSapTable--expandHeight</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#SHresultgrid1-mrss-cont-left-Row-2 div >> internal:has-text=&quot;Row selected. To deselect the row, press CTRL and the spacebar.&quot;i >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b5395453-81a2-41c6-a327-a4d2b5855d47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>d324e65b-38a4-4fa3-8e4b-fc84c4ace245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ti</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>af8cecb6-40cb-4496-a7f7-e8338f719d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>urST5SCMetricInner lsSapTable--expandHeight</value>
+      <webElementGuid>97488ee3-6b78-48cf-ae44-e7bd1a620b48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>09322b36-28ab-43b2-b7ba-5a6f067e718f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sh[3,0]#sc&quot;)/div[@class=&quot;urBorderBox lsSapTable--expandWidth lsSTCellHeight100 urSTSCOuterDiv urSTRowSelSecIcon urST4LbSelIcon&quot;]/div[@class=&quot;urST5SCMetricInner lsSapTable--expandHeight&quot;]</value>
+      <webElementGuid>a92a38d8-a649-4e42-bd67-0e5899add0bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/INT-PP-002/Creation/Creation with mandatory fields/Page_Create Work Center Basic Data/iframe_Drag apps here to create links_appli_6322ab</value>
+      <webElementGuid>c5f0ec6a-f16b-4871-8b64-b85bd313e2e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='sh[3,0]#sc']/div/div</value>
+      <webElementGuid>c630edc7-70c3-4074-a6f6-d421349c80de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To select a row, press the spacebar.'])[2]/following::div[2]</value>
+      <webElementGuid>8fdcf27f-3269-4837-8500-c72b1716ae02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To select a row, press the spacebar.'])[1]/following::div[4]</value>
+      <webElementGuid>72c65795-ba5f-45f9-a509-6f134da96296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Row selected. To deselect the row, press CTRL and the spacebar.'])[1]/preceding::div[1]</value>
+      <webElementGuid>2d67d416-c728-4cd3-b9c2-b9349560ac04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To select a row, press the spacebar.'])[3]/preceding::div[2]</value>
+      <webElementGuid>3c62eceb-c509-464a-ad9a-46c8ec530f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/table/tbody/tr[2]/td/div/div/table/tbody/tr[3]/td/div/div</value>
+      <webElementGuid>2557812c-f02d-41d8-8082-dfbe177d44fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>8058e9c1-44b2-4985-9859-83248a10fa09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
